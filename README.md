@@ -66,9 +66,3 @@ what is required to be designed(only essentials)?
 - [ ] Cinematic Animation
 - [ ] Climbing hook
 - [ ] Boulder pushing
-- [ ] 
-
-
-
-
-
